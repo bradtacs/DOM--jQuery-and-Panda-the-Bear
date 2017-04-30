@@ -10,3 +10,7 @@ $("#left-image img").attr('src','https://placeimg.com/325/225/any');
 $("span.bio-info-value.bio-info-name").text("Zach");
 
 $("body").css('background-color','navy');
+
+$(".highlight").css('color','yellow');
+
+$("h1").css('font-family','monospace');
