@@ -16,5 +16,8 @@ $("h1").css('font-family','monospace');
 
 $("#name").attr("placeholder","Identify Yourself");
 
+$("#message").attr("placeholder","State Your Business");
 
-$("#message").attr("placeholder","State Your Business")
+$("#email").attr("value","koalathebear@gmail.com");
+
+$("#submit").attr("value","En Garde!");
